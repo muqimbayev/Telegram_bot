@@ -1,0 +1,1 @@
+9999999999{"name": "utils", "version": "1.0.2", "summary": "A grab-bag of utility functions and objects", "requires_dist": null, "requires_python": ">=3.6", "files": [{"file": "utils-1.0.2.tar.gz", "hash": "sha256:f4d5157e27e9d434006b5b52a1ec951a34e53e7ecaa145d43a153ec452eb5d9e"}], "yanked": false, "_cache_version": "2.0.0"}

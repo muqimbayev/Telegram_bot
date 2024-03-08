@@ -1,0 +1,1 @@
+9999999999{"name": "django-handler", "version": "1.0", "summary": "A simple Django app to write logs into databases.", "requires_dist": null, "requires_python": null, "files": [{"file": "django-handler-1.0.tar.gz", "hash": "sha256:de4982466173067fa77b98e286b8cf279c646e386e5bf28976ade141b4ad3aaa"}], "yanked": false, "_cache_version": "2.0.0"}
